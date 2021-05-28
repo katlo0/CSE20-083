@@ -1,0 +1,108 @@
+/*Events showcase*/
+#showcase-1{
+    min-height: 400px;
+    border-bottom: 2px #B22222 solid;
+    background-image: url('../img/UenoPark_33.jpg');
+    background-size:100%;
+    background-position: 0 -400px;
+    background-repeat: no-repeat;
+    
+}
+
+#showcase-2{
+    min-height: 400px;
+    border-bottom: 2px #B22222 solid;
+    background-image: url('../img/Flea\ MarketPintest.jpg');
+    background-size:100%;
+    background-position: 0 -300px;
+    background-repeat: no-repeat;
+    
+}
+
+#showcase-3{
+    min-height: 400px;
+    border-bottom: 2px #B22222 solid;
+    background-image: url('../img/yoyogi-park-wanwan-carnival-Tokyoweekeder.png');
+    background-size:100%;
+    background-position: 0 -200px;
+    background-repeat: no-repeat;
+}
+
+#showcase-4{
+    min-height: 400px;
+    border-bottom: 2px #B22222 solid;
+    background-image: url('../img/comiket-110444.jpg');
+    background-size:100%;
+    background-position: 0 -200px;
+    background-repeat: no-repeat;
+}
+
+#showcase-5{
+    min-height: 400px;
+    border-bottom: 2px #B22222 solid;
+    background-image: url('../img/otaku-summit-preview.jpg');
+    background-size:100%;
+    background-position: 0 -150px;
+    background-repeat: no-repeat;
+}
+
+#showcase-6{
+    min-height: 400px;
+    border-bottom: 2px #B22222 solid;
+    background-image: url('../img/maximalfocus-0n4jhVGS4zs-unsplash.jpg');
+    background-size:100%;
+    background-position: 0 -250px;
+    background-repeat: no-repeat;
+}
+
+.mainArt{
+    width: 30%;
+    float:left;
+    display: inline;
+}
+
+.ePic-1 img{
+    display: inline;
+    margin: 10px 0 0 100px;
+    border: 1px solid #ccc;
+}
+
+.ePic-2 img{
+    display: inline;
+    margin:10px 0 0 100px;
+    height: 187px;
+    border: 1px solid #ccc;
+}
+
+.ePic-3 img{
+    display: inline;
+    margin:10px 0 0 100px;
+    height: 240px;
+    border: 1px solid #ccc;
+}
+
+.ePic-4 img{
+    display: inline;
+    margin:10px 0 0 100px;
+    height: 324px;
+    border: 1px solid #ccc;
+}
+
+.ePic-5 img{
+    display: inline;
+    margin:10px 0 0 100px;
+    height: 230px;
+    border: 1px solid #ccc;
+}
+
+.ePic-6 img{
+    display: inline;
+    margin:10px 0 0 100px;
+    height: 307px;
+    border: 1px solid #ccc;
+}
+
+
+
+
+

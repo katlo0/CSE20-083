@@ -1,0 +1,277 @@
+ body{
+    background-color: #f4f4f4;
+    font-family: Georgia, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+/*Global*/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.current{
+    color: #B22222 ;
+    font-weight: 400;
+}
+
+.dark{
+    background-color: #336666;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0 10px 0;
+}
+
+.gray{ 
+    border: 1px #777 solid;
+    background-color: #dcdcdc;
+    text-align: center;
+}
+
+.box{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+.introHead{
+    text-align: center;
+    color: #335966;
+    font-size: 25px;
+}
+
+.introHead h1{
+  border-bottom: 1px #dcdcdc solid;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover{
+    color: #ccffff;;
+}
+
+/*header*/
+header{
+    background: #336666;
+    text-transform: uppercase;
+    color: #ffffff;
+    border-bottom: 2px #B22222 solid;
+}
+
+header h1{
+    float: left;
+}
+
+header a{
+    color: #ffffff;
+    font-size: 19px;
+
+}
+
+header a:hover{
+    font-weight: 200;
+    color: #ccffff;
+}
+
+header ul{
+    float: right;
+    padding: 10px;
+    
+}
+
+header li{
+    display: inline;
+    float: left;
+    padding: 0 20px 0 20px;
+}
+
+#highlight{
+    color: #B22222;
+}
+
+/* showcase*/
+#showcase{
+    min-height: 453px;
+    background-image:url('../img/Homepic.jpg');
+    background-position: -25px -150px ;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #ffffff;
+    border-bottom: 2px #B22222 solid;
+}
+
+#showcase h1{
+    margin-top: 100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+#showcase p{
+    font-size: 25px;
+}
+
+/* Main*/
+/*----------
+.Popcontainer{
+    border: 1px #ccc solid;
+    border-radius: 2%;
+    padding: 20px;
+}----------*/
+
+.introBox img{
+    width: 100%;
+    height: auto;
+}
+
+.introBox{
+    width: 30%;
+    margin: 15px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+/*Events*/
+.picBox {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 30%;
+}
+
+.picBox:hover {
+    border: 1px solid #777;
+  }
+  
+.picBox img {
+    width: 100%;
+    height: auto;
+  }
+
+.elink h4{
+    padding: 0;
+    margin: 0;
+}
+  
+.elink {
+    padding: 15px;
+    text-align: center;
+}
+
+/*About--Lifestyle*/
+  .pic img{
+    width: 100%;
+    height: auto;
+    border: 1px #dcdcdc solid;
+  }
+
+  .pic{
+      width: 30%;
+      float: right;
+      margin-top: 60px;
+      margin-right: 60px;
+  }
+
+  .content{
+      display: inline-block;
+      width: 50%;
+  }
+
+  /*Connect With Us*/
+   .cIntro h1{
+      text-align: center;
+      border-bottom: 1px #dcdcdc solid;
+      font-size: 30px;
+      margin-bottom: 1px;
+      color: #335966;
+  }
+
+  .cIntro2{
+      text-align: center;
+      margin-bottom: 40px;
+      color: #335966;
+  }
+
+  .nLetter{
+      display: inline-block;
+      width: 40%;
+  }
+
+  .info{
+      float:right;
+      width: 50%;
+      text-align: center;
+  }
+
+  input[type=text], input[type=submit], select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+  }
+  
+  input[type=checkbox] {
+    margin-top: 16px;
+  }
+  
+  input[type=submit] {
+    background-color: #008b8b;
+    color: white;
+    border: none;
+  }
+
+  input[type=submit]:hover{
+      background-color: #008080;
+  }
+
+  .icons{
+    border-top: 1px #dcdcdc solid;
+  }
+
+  /*Thank You*/
+  .thankyou{
+      text-align: center;
+      font-size: 30px;
+      color: #335966;
+  }
+
+  .thankpic{
+      width: 50%;
+      margin-left: 300px;
+  }
+
+  .return{
+      text-align: center;
+  }
+  .return a{
+      color: #008080;
+      font-size: 20px;
+  }
+
+  /*Scrape Goat*/
+
+/*Footer*/
+footer{
+    margin-top: 20px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #336666;
+    text-align: center;
+}
+
+footer .container{
+    border-bottom: 1px #D3D3D3 solid;
+}
+
+
+
+
+
+
+
