@@ -1,0 +1,86 @@
+*{
+    padding:0;
+    margin:0;
+}
+@keyframes flare {
+    from {color: #8B0000;}
+    to {color: #FF0000;}
+}
+
+.showcase{
+    background-image:url("pexels-redrecords-©️-2743739.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.stContainer{
+    text-transform: uppercase;
+    color: #8B0000;
+    font-weight: bolder;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.enterbtn{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.stContainer p{
+    color: #fff;
+    text-shadow: 2px 2px;
+}
+
+.stContainer h1{
+    animation-name: flare;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    text-shadow: 2px 2px;
+}
+
+.btn{
+    margin-top: 30px;
+    border: none;
+    color: #FF0000;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: .8rem;
+    background-color: #fff ;
+    border-radius: 20px;
+    transition:font-size 3s,  transform 2s, border 3s;
+    transition-timing-function: ease;
+}
+
+.btn2{
+    margin: 10px;
+    border: none;
+    padding: 10px;
+    font-size: .8rem;
+    background-color: rgb(25, 25, 112, .5);
+    border-radius: 20px;
+    color: #2F4F4F;
+    transition:font-size 3s,  transform 2s, border 3s;
+}
+
+.btn2:hover{
+    border: 1px solid 	#FAF0E6;
+    font-size: .3rem;
+    transform: rotate(360deg);
+    color: #fff;
+}
+
+.btn:hover{
+    color: #fff;
+    background-color:  #FF0000 ;
+    font-size: 1.8rem;
+    transform: rotate(360deg);
+    border: 1px solid #00FF00;
+}
