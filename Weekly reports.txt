@@ -1,0 +1,266 @@
+Week 1
+Activities planned: 
+Orientation
+Introduction to the spring framework
+
+
+Activities actually performed
+Learned the a bit about the Spring MVC Framework
+Learned spring annotation
+Learned spring dependency management
+
+problems encountered
+Delay in acquiring desktops
+
+
+Week 2
+Activities planned: 
+Introduction to the company codebase
+More on the Spring mvc 5 framework
+
+
+Activities actually performed
+Understood how the code base structure
+learned -Thymeleaf, internationlization with spring, spring validation, spring view resolvers
+
+problems encountered
+Difficulty in understanting the codebase
+
+
+Week 3
+
+Activities planned:
+Learn maven build
+Learn Spring JPA
+
+Activities actually performed
+M-Learned how to create entity and how to have create database schemas or tables from the ide itself using entities (Check)
+M-Learned how to connect the database to the ide using hibernate
+T- Learned all of the JPArepository methods and session management
+W-Learned a bit of javascript
+T- Learned how to create a spring mvc CRUD mini project
+
+
+
+Week 4
+
+
+Activities planned:
+-Finish up the session management problem
+
+Activities actually performed:
+F-Working with multi-module spring boot application
+M,T,W-Added the sesssion management jqueyr script to the company code base/ learn javascript
+T- Debbuging code
+
+
+Week 5
+
+Activities planned:
+Learn spring security
+
+Activities actually performed:
+W.T.F-learned and worked with Spring security crypto---failed the other
+M-Added the sesssion management jqueyr script to the company code base
+T-JSP form handling practice(polish skills)--implimented devtools dependency
+
+Week 6
+
+Activities planned:
+
+Activities actually performed:
+
+W-Basics of restful webservices api, basic error handling/custom error pages
+T-worked with sql database to implement a unique constraint index on an existing table in a database
+F-Added a unique constraint index to an sql database table that makes every entry unique
+
+Week 7
+
+Activities planned:
+
+Activities actually perfomed
+M-Looked at the code base to understand how the code works and what to change to stop users from entring in duplicate data from the from end
+T-Found and understood a bit of how the code works and fixed the issue. worked with LL and manually added a company top e-services.
+W-
+
+Week 8
+T-Helped a coworker identyfy and come up with solution to a problem.
+F-Tried to implement my batis but failed
+
+week 9
+M-Implemented my batis to spring boot. Worked on my library system project
+T- Started theory behind rest and postman
+W-Started learning vue.js
+T-learning vue.js (options api)
+F-learning vue.js  (options api)
+
+Monthly - {Understood how to use and implemented MyBatis in a project to create custom
+sql statements, fixed an sql issue with duplicating data, learned about restful services and how to use postman, worked with and made custom error pages using spring boot
+,Understood very little onspring security(spring crypto)}
+
+1-Learned the spring MVC Framework along with SpringBoot, learned Spring JPARepository and used it to create a mini CRUDE application,
+Learned maven dependency management,Implemented a JAVA Scri[t Sessioon managment to in house codebase
+
+week10
+M-
+T-
+W- started working on remaking made the company login page with vue
+T- Helped with Quality assurance
+F- Finished the html css part of the website
+
+week11(20 march) 
+M-Improved the site ui using flexbox and css grid to make the vue website better
+T-Used json server to run json mock databases to test my website functionality
+W- Started making the site dynamic using vue  (options api)
+T-
+F-
+DONE!!!!!!!!!!!!!!!
+
+week12 (27 march
+1- Got notified of a few mistakes i made with the site and fixed them ( the website)
+2. continued working on vue,
+3.Learnt the fetch api and axios and migrated from using json server to better test the functionality of the site
+4. Increased my javascript knowledge/skills
+5. Added more functionality to the website to make it more dynamic
+DONE!!!!!!!!!!!!!!!
+
+week13(3 april)
+-(Pinia) state managment to control global states
+-understood more thouraly how the callback, Promises and Async await function work in detail/behind the scenes
+understood how to use webpack and babel compile down modules into compatible js version for all browser/enviroments and use js framework style while using vanilla js
+DONE!!!!!!!!!!!!!!!
+
+Week14(11 april)
+4- learnt and used webpack to bundle and include firestore into a webapplication + plus understood how frameworks like vue bundle various resources into a single js file + understood the benefits of using a module bundler and the problems which led to its need
+5-learnt and used firestore to create a realtime database and manipulate it through code
+DONE!!!!!!!!!!!!!!!
+
+week15
+-ajax? fundamentals in js promise's
+- focused mailnly on vanilla js work to be able to handle simple stuff without using frameworks and high level api's/ technologies
+(vue 3 composition api)
+
+week16
+
+week17(1 may)
+Put everything ive learnt into practice by doing a small project
+
+week18(8 may)
+T-locate the spinner object in the codebase and identify the problem causing it to spin for a long time
+
+week19(15 may)
+[mainly worked on my To Do app)
+
+week20(22 may)
+????????
+
+week21(29 may)
+Monday - Started learning more indepth java knowledge- start with java 8 features today because java 8 was a massive release version serves
+as a good Java base knowledge and everything else (Java 9-20) is pretty much additional features on top of that baseline.
+
+Tuesday - Ke tlotshe kelwa le le vue authentication using cooikes., learnt a lot about frontend cross origin what what le di axios headers what what.
+
+Wednesday - Messed around with veevalidate (vue.js library) and was able to do some basic from validation with it.(Learnt the difference between Field level & form levelvalidation)
+
+thursday(learnt how to make do dynamic form generation with veevalidate to reduce tye coding time and save time make adding inputs into existing
+forms easier+++{ you learned how to use the dynamic rendering capabilities of Vue.js combined with the flexible nature of the vee-validate components.
+You created a form that renders fields and validates them based on javascript object schema.}+++)
+
+Friday- Validation metadata 
+Friday-displaying error messages + customizing validation behaviours
+
+week22(5 may)(Current week)
+Monday - Started working on a project implementing dynamic form generation and and validation with veevalidate and yup 
+Tuesday - Completed the project + (deeper veevalidate stuff)
+wednesday - Learnt how to implement jwt authentication + encode objects using springboot and kotlin, as well as how to allows cors for different front end frameworks
++ also implemented cookings to make the jwt secure and anf for a whole overrall secure login process
+Thursday-- Spent the day transpiling code from kotlin to pute java 
+Friday - Finished transpiling the code and understanding a bit deeper if
+how it works, along with learning about jackson serialization/deserialization.
+
+Fridays (Send over a secure rest api to a front end framework and implement a secure login/registration process.)
+
+week23(12 June
+
+week24(19 June)
+
+week25(26 June)(Last Week)
+
+
+
+week1(Done)
+week2(Done)
+week3(Done)
+week4(Done)
+week5(Done)
+week6(Done)
+week7 Not there
+week8(1,2--Printed ones stopped here--,4,5) - This was about my batis
+week9(1,2,3,4,5)(Done) - This was about vue.js
+week10(Done)
+week11(Done)
+week12(Done)
+week13
+week14(Done)
+week15
+week16
+week17
+week18
+week19
+week20 
+week21 (Done) 
+week22 (Current week)
+week23
+week24 (Start working on making a secure and kinda pro site- Taskify2.0)SS
+week25
+
+
+
+
+
+
+Html, css-{
+css pre-processor's
+[
+Sass
+LESS
+Stylus
+PostCSS
+]
+
+Java
+sring mvc
+spring booot
+spring data- hibernate
+restful api
+
+vue
+vue router
+pinia
+vue cli
+form validation -veevalidate
+UI design Vutify/Primevue
+npm/yarn
+
+architecture-wireframes-mockups
+
+spring security - Json web tokens JWT
+HTTPS/SSL
+
+{
+pollyfills
+vite
+Formvuelate
+
+}
+
+
+Alone[
+{veevalidate[
+	{Practice dynamic form generation},
+	{Practice basic validation},
+	{Practice validation with yup}], 
+
+
+things to lear alone....serialization/deserialiization(jackson)(object mapper) (idk wtf a lazy load is)----
+---Different types of authentication{statelsee, refresh token, session}
